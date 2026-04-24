@@ -1,4 +1,4 @@
-# Systems Analysis and Design – RefHelp and Application Modelling
+# Systems Analysis and Design - RefHelp and Application Modelling
 
 > **Author:** Rohit Malik | **Domain:** Systems Analysis | **Type:** Academic Project | **Purpose:** Portfolio & Educational
 
@@ -8,7 +8,7 @@
 
 This project demonstrates the application of systems analysis and design techniques across multiple real-world scenarios, including a referee scheduling system (RefHelp), a service marketplace application, and a caving management system.
 
-The work focuses on requirement analysis, use case modelling, event decomposition, and domain modelling using UML — applying structured techniques to understand how systems should behave, interact with users, and manage data.
+The work focuses on requirement analysis, use case modelling, event decomposition, and domain modelling using UML - applying structured techniques to understand how systems should behave, interact with users, and manage data.
 
 ---
 
@@ -20,25 +20,25 @@ The objective of this project is to analyse system requirements and produce stru
 
 ## Key Components
 
-### 1. Stakeholder Analysis and Requirements — RefHelp System
+### 1. Stakeholder Analysis and Requirements - RefHelp System
 
 - Identification of key stakeholders including referees, clubs, parents, and regulatory bodies
 - Functional requirements covering scheduling, notifications, and substitution management
 - Non-functional requirements defined using the FURPS+ framework (performance, security, usability, reliability)
 
-### 2. Use Case Modelling — Everything for Dogs App
+### 2. Use Case Modelling - Everything for Dogs App
 
 - Identified user goals for both dog owners and service providers
 - Developed a complete use case list for the application
 - Defined core system interactions such as booking, messaging, and service management
 
-### 3. Event Decomposition — YSACS System
+### 3. Event Decomposition - YSACS System
 
 - Identified and categorised external, temporal, and state events
 - Mapped events to corresponding system use cases
 - Modelled operational workflows including bookings, maintenance scheduling, and safety tracking
 
-### 4. Domain Modelling — Fashion Wear System
+### 4. Domain Modelling - Fashion Wear System
 
 - Designed a UML class diagram representing the system structure
 - Defined entities, attributes, and relationships
